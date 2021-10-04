@@ -1,6 +1,6 @@
 # Titanic-Data-Science-Model-
 #### Final approach at Kaggle's "Titanic - Machine Learning from Disaster" competition using python
-#### During this competition I appliead the knowledge I've learned through various sources including University projects and independent study
+#### During this competition I applied the knowledge I've learned through various sources including university projects and independent study
 #### The datasets from the project are 'train.csv' and 'test.csv' (which were given by Kaggle.com)
 #### The information contained in these give you information about each passenger such as:
 - Survival
@@ -13,6 +13,7 @@
 - Fare paid
 - Cabin number
 - Port of embarkation
+#### The idea of the proyect is to be able to predict whether some passengers aboard the titanic survived or not based on their features
 #### The libraries I used vary from pandas to sklearn and seaborn
 #### There are two main models which I decided to be part of this project:
 - My fourth model in which I used some statistical analysis oriented towards multiple logistic regression (Toy 4.ipynb)
