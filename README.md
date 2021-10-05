@@ -1,8 +1,8 @@
 # Titanic-Data-Science-Model-
 #### Final approach at Kaggle's "Titanic - Machine Learning from Disaster" competition using python
-#### During this competition I applied the knowledge I've learned through various sources including university projects and independent study
+#### During this competition I applied the knowledge I've learned through various sources including university projects and independent study (to improve my latter scores)
 #### The datasets from the project are 'train.csv' and 'test.csv' (which were given by Kaggle.com)
-#### The information contained in these give you information about each passenger such as:
+#### All information contained in these are passenger features such as:
 - Survival
 - Passenger class
 - Sex
