@@ -19,6 +19,6 @@
 - My fourth model in which I used some statistical analysis oriented towards multiple logistic regression (Toy 4.ipynb)
 - My fifth model which was a little bit more oriented towards other machine learning algorithms such as Kernel Support Vector Machine, Naive Bayes, K-Nearest neighbors, and Random Forest (Titanic_Model_v5.ipynb)
 #### This proyect takes part of my journey towards learning data science (which I am passionate for). 
-#### There are a lot of aspects I need to become better at but I hope this will help other who want to start their data science journeys
-#### Feel free to leave any suggestions (I'd love to get feedback on my overall analysis to improve future models) at sgarpbm98@gmail.com
+#### There are a lot of aspects I need to become better at but I hope this will help others who want to start their data science journeys
+#### Feel free to leave any suggestions (I'd love to get feedback on my overall analysis to improve future models) at sebastiangonzalezarango98@gmail.com
 #### Pretty much all of the information contained in this proyect can be checked up in the notebooks
